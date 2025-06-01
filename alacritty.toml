@@ -57,7 +57,7 @@ semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
 [window]
 decorations = "Buttonless" # "Full" | "None" | "Transparent" | "Buttonless"
 dynamic_padding = true
-opacity = 0.5
+opacity = 0.8
 blur = true
 startup_mode = "Windowed"  # "Windowed" | "Maximized" | "Fullscreen" | "SimpleFullscreen"
 title = "Alacritty"
